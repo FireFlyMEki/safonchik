@@ -1,0 +1,22 @@
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\bin\Release\net9.0\safonchik40331Labs.Domain.deps.json
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\bin\Release\net9.0\safonchik40331Labs.Domain.dll
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\bin\Release\net9.0\safonchik40331Labs.Domain.pdb
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.AssemblyInfoInputs.cache
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.AssemblyInfo.cs
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.dll
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\refint\safonchik40331Labs.Domain.dll
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.pdb
+C:\Users\Dima\Downloads\Ilyutsik40331VT-main\Ilyutsik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\ref\safonchik40331Labs.Domain.dll
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\bin\Release\net9.0\safonchik40331Labs.Domain.deps.json
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\bin\Release\net9.0\safonchik40331Labs.Domain.dll
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\bin\Release\net9.0\safonchik40331Labs.Domain.pdb
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.AssemblyInfo.cs
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.dll
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\refint\safonchik40331Labs.Domain.dll
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\safonchik40331Labs.Domain.pdb
+C:\Users\Dima\Desktop\БГУИР\Последняя сессия\ВТ\safonchik40331VT-main\safonchik40331Labs.Domain\obj\Release\net9.0\ref\safonchik40331Labs.Domain.dll

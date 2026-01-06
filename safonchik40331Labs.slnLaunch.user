@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "safonchik40331Labs.UI\\safonchik40331Labs.UI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "safonchik40331Labs.Api\\safonchik40331Labs.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Новый профиль (1)",
+    "Projects": [
+      {
+        "Path": "safonchik40331Labs.Api\\safonchik40331Labs.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "safonchik40331Labs.Blasor\\safonchik40331Labs.Blasor.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
